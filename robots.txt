@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.example-healthinsurance.com/sitemap.xml
+Sitemap: https://shunmuganathan.github.io/my-LearnSeo-Insurancesite/sitemap.xml
